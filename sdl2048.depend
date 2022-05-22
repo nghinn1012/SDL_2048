@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1653212367 source:d:\nghinn\sdl2048\appgame.cpp
+	"AppGame.h"
+	"draw.h"
+	"globalvars.h"
+
+1525229594 d:\nghinn\sdl2048\appgame.h
+	"draw.h"
+
+1525229594 d:\nghinn\sdl2048\draw.h
+	"globalvars.h"
+
+1653200783 d:\nghinn\sdl2048\globalvars.h
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<algorithm>
+	<Windows.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1653212942 source:d:\nghinn\sdl2048\draw.cpp
+	"draw.h"
+	"AppGame.h"
+
+1653201542 source:d:\nghinn\sdl2048\globalvars.cpp
+	"globalVars.h"
+
+1653211203 source:d:\nghinn\sdl2048\main.cpp
+	"AppGame.h"
+
+1653212367 source:d:\nghinn\sdl2048\game-2048-sdl\appgame.cpp
+	"AppGame.h"
+	"draw.h"
+	"globalvars.h"
+
+1525229594 d:\nghinn\sdl2048\game-2048-sdl\appgame.h
+	"draw.h"
+
+1525229594 d:\nghinn\sdl2048\game-2048-sdl\draw.h
+	"globalvars.h"
+
+1653200783 d:\nghinn\sdl2048\game-2048-sdl\globalvars.h
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<algorithm>
+	<Windows.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1653212942 source:d:\nghinn\sdl2048\game-2048-sdl\draw.cpp
+	"draw.h"
+	"AppGame.h"
+
+1653201542 source:d:\nghinn\sdl2048\game-2048-sdl\globalvars.cpp
+	"globalVars.h"
+
+1653211203 source:d:\nghinn\sdl2048\game-2048-sdl\main.cpp
+	"AppGame.h"
+
+1653212367 source:d:\nghinn\sdl2048\2048sdl\nghien\game-2048-sdl\appgame.cpp
+	"AppGame.h"
+	"draw.h"
+	"globalvars.h"
+
+1525229594 d:\nghinn\sdl2048\2048sdl\nghien\game-2048-sdl\appgame.h
+	"draw.h"
+
+1525229594 d:\nghinn\sdl2048\2048sdl\nghien\game-2048-sdl\draw.h
+	"globalvars.h"
+
+1653200783 d:\nghinn\sdl2048\2048sdl\nghien\game-2048-sdl\globalvars.h
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<algorithm>
+	<Windows.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1653215627 source:d:\nghinn\sdl2048\2048sdl\nghien\game-2048-sdl\draw.cpp
+	"draw.h"
+	"AppGame.h"
+
+1653201542 source:d:\nghinn\sdl2048\2048sdl\nghien\game-2048-sdl\globalvars.cpp
+	"globalVars.h"
+
+1653211203 source:d:\nghinn\sdl2048\2048sdl\nghien\game-2048-sdl\main.cpp
+	"AppGame.h"
+
