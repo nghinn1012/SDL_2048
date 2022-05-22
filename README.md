@@ -2,13 +2,6 @@
 
 * Game 2048 cổ điển
 
-## Mục lục
-1. Hướng dẫn cài đặt 
-2. Mô tả
-3. Các chức năng
-4. Kỹ thuật đã sử dụng
-5. Kết luận
-
 *********************************************
 ### Hướng dẫn cài đặt
 
