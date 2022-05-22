@@ -21,24 +21,24 @@ Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIG
 
 ### Các chức năng
 
-Màn hình chính của game với board 4x4 
-Hiện điểm hiện tại 
-Lưu điểm cao 
-Có thể chuyển qua New Game trong khi đang chơi hoặc tự động chuyển khi thua
-Thông báo thắng/thua
+* Màn hình chính của game với board 4x4 
+* Hiện điểm hiện tại 
+* Lưu điểm cao 
+* Có thể chuyển qua New Game trong khi đang chơi hoặc tự động chuyển khi thua
+* Thông báo thắng/thua
 
 > Video: https://www.youtube.com/watch?v=UwLhSaLMO64
 
 ### Kỹ thuật đã sử dụng
 
-Xử lí sự kiện chuột, bàn phím
-Sử dụng các extension của thư viện để tạo màn hình game
-Render chữ lên màn hình với SDL_ttf
+* Xử lí sự kiện chuột, bàn phím
+* Sử dụng các extension của thư viện để tạo màn hình game
+* Render chữ lên màn hình với SDL_ttf
 
-Sinh số giả ngẫu nhiên 
-Các thư viện chuẩn của C++
-Cách cấp phát động và quản lí bộ nhớ
-Tách file và quản lý file trong project
+* Sinh số giả ngẫu nhiên 
+* Các thư viện chuẩn của C++
+* Cách cấp phát động và quản lí bộ nhớ
+* Tách file và quản lý file trong project
 
 ### Kết luận
 
