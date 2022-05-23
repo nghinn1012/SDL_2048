@@ -6,6 +6,8 @@
 ### Hướng dẫn cài đặt
 
 * Cài đặt Codeblock và SDL2, SDL_image, SDL_ttf.
+* [Codeblock](https://sourceforge.net/projects/codeblocks/)
+* Thêm các thư viện đồ hoạ vào build option
 * Chạy file project sdl2048.cbp 
 * F9 (build and run) để chạy và chơi game
 
