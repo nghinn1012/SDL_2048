@@ -17,6 +17,7 @@ Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIG
 ### Các chức năng
 
 * Màn hình chính của game với board 4x4 
+* Âm thanh sinh động, có thể dừng âm bằng nút 9 và resume bằng nút 0
 * Hiện điểm hiện tại 
 * Lưu điểm cao 
 * Có thể chuyển qua New Game trong khi đang chơi hoặc tự động chuyển khi thua
@@ -29,6 +30,7 @@ Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIG
 * Xử lí sự kiện chuột, bàn phím
 * Sử dụng các extension của thư viện để tạo màn hình game
 * Render chữ lên màn hình với SDL_ttf
+* Chèn âm thanh với SDL_mixer
 
 * Sinh số giả ngẫu nhiên 
 * Các thư viện chuẩn của C++
@@ -41,8 +43,8 @@ Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIG
  
 Hướng phát triển
 * Thêm các kích thước mới nxn cho game
-* Thêm âm thanh, hình ảnh cho game
-* Lưu lại tên, điểm số người chơi
+* Thêm cửa sổ lúc vào chơi, hình ảnh cho game
+* Lưu lại tên, điểm số của từng người chơi
 
 
 
