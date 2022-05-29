@@ -23,7 +23,7 @@ Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIG
 * Có thể chuyển qua New Game trong khi đang chơi hoặc tự động chuyển khi thua
 * Thông báo thắng/thua
 
-> Video: https://www.youtube.com/watch?v=UwLhSaLMO64
+> Video: [https://www.youtube.com/watch?v=UwLhSaLMO64](https://www.youtube.com/watch?v=0KYItvqyT_s)
 
 ### Kỹ thuật đã sử dụng
 
