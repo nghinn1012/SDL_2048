@@ -1,4 +1,6 @@
 # 2048 
+* Họ và tên: Ngô Thảo Hương
+* MSV: 21020338
 
 * Game 2048 cổ điển
 
@@ -101,7 +103,7 @@
 
 #### Những điều tâm đắc rút ra 
 
-> 2048 là tựa game kinh điển đã xuất hiện cách đây khá lâu, và giờ em đã được thử sức làm lại nó với C++ và SDL_2. Mặc dù chưa được hoàn chỉnh các chức năng nhưng em nhận thấy được rằng ngôn ngữ trong lập trình không quá quan trọng, quan trọng là cần hiểu vấn đề cặn kẽ và sử dụng các công cụ một cách hợp lý. Quan trọng hơn trong quá trình làm game là ta cần biết cách tổ chức, xử lý thành những phần nhỏ để giúp quá trình kiểm tra lại trở nên dễ dàng hơn. Qua đó ta sẽ học được cách tư duy, hiểu được quá trình xây dựng, hoàn thiện game
+> 2048 là tựa game kinh điển đã xuất hiện cách đây khá lâu, và giờ em đã được thử sức làm lại nó với C++ và SDL_2. Mặc dù chưa được hoàn chỉnh các chức năng nhưng em nhận thấy được rằng ngôn ngữ trong lập trình không quá quan trọng, quan trọng là cần hiểu vấn đề cặn kẽ và sử dụng các công cụ một cách hợp lý. Quan trọng hơn trong quá trình làm game là ta cần biết cách tổ chức, xử lý thành những phần nhỏ để giúp quá trình kiểm tra lại trở nên dễ dàng hơn. Qua đó ta sẽ học được cách tư duy, hiểu được quá trình xây dựng, hoàn thiện game.
 
 ### Nguồn tham khảo
 * https://lazyfoo.net
