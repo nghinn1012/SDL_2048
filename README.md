@@ -31,8 +31,8 @@
 
 * Game được lấy cảm hứng từ 2048 cổ điển, viết bằng ngôn ngữ C++ và sử dụng thư viện SDL2
 
-#####LUẬT CHƠI:
-* Người chơi sẽ được cấp cho một bảng kích cỡ 4x4 với 2 ô số mở đầu (mặc định là 2 số 2) những ô có cùng giá trị sẽ sát nhập vào nhau và tạo ra một ô có giá trị gấp đôi. Nhiệm vụ của người chơi là sát nhập các ô một cách khéo léo để tạo ra ô chiến thắng 2048. Bằng cách
+##### Luật chơi của game
+* Người chơi sẽ được cấp cho một bảng kích cỡ 4x4 với 2 ô số mở đầu, những ô có cùng giá trị sẽ sát nhập vào nhau và tạo ra một ô có giá trị gấp đôi. Nhiệm vụ của người chơi là sát nhập các ô một cách khéo léo để tạo ra ô chiến thắng 2048. Bằng cách
 
 + Nhấn UP để dồn các ô lên phía trên
 
@@ -74,7 +74,6 @@
 * Render chữ lên màn hình với SDL_ttf
 * Chèn âm thanh với SDL_mixer
 * Giải phóng bộ nhớ
-*
 
 * Sinh số giả ngẫu nhiên 
 * Các thư viện chuẩn của C++
