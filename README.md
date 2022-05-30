@@ -3,7 +3,8 @@
 * Game 2048 cổ điển
 
 *********************************************
-# Table of contents1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
+# Mục lục
+1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
 2. [Mô tả chung về trò chơi, các ý tưởng chính](#mô-tả-chung-về-trò-chơi)
 3. [Mô tả các chức năng đã cài đặt](#mô-tả-các-chức-năng-đã-cài-đặt)
 4. [Các kỹ thuật lập trình được sử dụng trong chương trình](#các-kỹ-thuật-lập-trình-được-sử-dụng-trong-chương-trình)
@@ -19,12 +20,12 @@
 * Kiểm tra bằng cách gọi g++ và mingw32-make trong terminal
 #### Clone repository về máy
 * Mở một trình Terminal và nhập lần lượt các lệnh
-'$ git clone https://github.com/nghinn1012/SDL_2048
-$ cd SDL_2048'
+`$ git clone https://github.com/nghinn1012/SDL_2048
+$ cd SDL_2048`
 ### Chạy chương trình 
 * Chạy các lệnh sau
-'$ mingw32-make
-$ ./SDL_2048.exe
+`$ mingw32-make
+$ ./SDL_2048.exe`
 
 ### Mô tả chung về trò chơi, các ý tưởng chính
 
