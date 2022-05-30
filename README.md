@@ -4,7 +4,7 @@
 
 *********************************************
 # Table of contents
-1. [Hướng dẫn cài đặt](#introduction)
+1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
