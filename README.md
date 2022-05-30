@@ -5,10 +5,10 @@
 *********************************************
 # Table of contents
 1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
-2. [Mô tả chung về trò chơi, các ý tưởng chính](#mô-tả-chung-về-trò-chơi,-các-ý-tưởng-chính)
+2. [Mô tả chung về trò chơi, các ý tưởng chính](#mô-tả-chung-về-trò-chơi)
 3. [Mô tả các chức năng đã cài đặt](#mô-tả-các-chức-năng-đã-cài-đặt)
 4. [Các kỹ thuật lập trình được sử dụng trong chương trình](#các-kỹ-thuật-lập-trình-được-sử-dụng-trong-chương-trình)
-5. [Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình](#kết-luận,-hướng-phát-triển-và-các-điều-tâm-đắc-rút-ra-được-sau-khi-hoàn-thiện-chương-trình)
+5. [Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình](#kết-luận)
 
 ### Hướng dẫn cài đặt
 
