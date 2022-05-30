@@ -2,8 +2,6 @@
 * Họ và tên: Ngô Thảo Hương
 * MSV: 21020338
 
-* Game 2048 cổ điển
-
 *********************************************
 # Mục lục
 1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
@@ -36,17 +34,17 @@
 #### Luật chơi của game
 * Người chơi sẽ được cấp cho một bảng kích cỡ 4x4 với 2 ô số mở đầu, những ô có cùng giá trị sẽ sát nhập vào nhau và tạo ra một ô có giá trị gấp đôi. Nhiệm vụ của người chơi là sát nhập các ô một cách khéo léo để tạo ra ô chiến thắng 2048. Bằng cách
 
-+ Nhấn UP để dồn các ô lên phía trên
++ Nhấn [UP] để dồn các ô lên phía trên
 
-+ Nhấn DOWN để dồn các ô xuống phía dưới
++ Nhấn [DOWN] để dồn các ô xuống phía dưới
 
-+ Nhấn LEFT để dồn các ô sang bên trái
++ Nhấn [LEFT] để dồn các ô sang bên trái
 
-+ Nhấn RIGHT để dồn các ô sang bên phải
++ Nhấn [RIGHT] để dồn các ô sang bên phải
 
-+ Nhấn 9 để tạm dừng nhạc
++ Nhấn [9] để tạm dừng nhạc
 
-+ Nhấn 0 để tiếp tục nhạc
++ Nhấn [0] để tiếp tục nhạc
 
 * Mỗi khi 2 ô cùng giá trị và được sát nhập điểm của người chơi sẽ được công thêm bằng đúng giá trị của ô mới được tạo ra từ việc sát nhập
 
@@ -55,7 +53,7 @@
 #### Màn hình chính của game với board 4x4 
 * Cửa sổ chơi cùng tên game "2048"
 * Board game 4x4 giống với game 2048 cổ điển
-* Các ô điểm mang giá trị 2,4,8,16,32,64,128,256,512,1024,2048 với các màu khác nhau 
+* Các ô điểm mang giá trị 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048 với các màu khác nhau 
 #### Âm thanh 
 * Âm thanh sinh động, có thể dừng âm bằng nút 9 và resume bằng nút 0
 #### Ghi lại điểm
