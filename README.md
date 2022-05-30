@@ -3,8 +3,7 @@
 * Game 2048 cổ điển
 
 *********************************************
-# Table of contents
-1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
+# Table of contents1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
 2. [Mô tả chung về trò chơi, các ý tưởng chính](#mô-tả-chung-về-trò-chơi)
 3. [Mô tả các chức năng đã cài đặt](#mô-tả-các-chức-năng-đã-cài-đặt)
 4. [Các kỹ thuật lập trình được sử dụng trong chương trình](#các-kỹ-thuật-lập-trình-được-sử-dụng-trong-chương-trình)
@@ -12,10 +11,20 @@
 
 ### Hướng dẫn cài đặt
 
-* Cài đặt [Codeblock](https://sourceforge.net/projects/codeblocks/) và SDL2, SDL_image, SDL_ttf.
-* Thêm các thư viện đồ hoạ vào build option
-* Chạy file project sdl2048.cbp 
-* F9 (build and run) để chạy và chơi game
+* Cài đặt [MinGW-W64 GCC-7.3.0-SEH](#https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/7.3.0/threads-win32/seh/x86_64-7.3.0-release-win32-seh-rt_v5-rev0.7z/download) và [git](#https://git-scm.com/downloads).
+#### Cài đặt MinGW-W64 (64bit)
+* Giải nén file x86_64-7.3.0-release-win32-seh-rt_v5-rev0.7z
+* Copy thư mục mingw64 vào (Ví dụ D:\software)
+* Cài đặt đường dẫn PATH đến \mingw64\bin
+* Kiểm tra bằng cách gọi g++ và mingw32-make trong terminal
+#### Clone repository về máy
+* Mở một trình Terminal và nhập lần lượt các lệnh
+'$ git clone https://github.com/nghinn1012/SDL_2048
+$ cd SDL_2048'
+### Chạy chương trình 
+* Chạy các lệnh sau
+'$ mingw32-make
+$ ./SDL_2048.exe
 
 ### Mô tả chung về trò chơi, các ý tưởng chính
 
