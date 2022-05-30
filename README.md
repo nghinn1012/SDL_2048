@@ -5,9 +5,10 @@
 *********************************************
 # Table of contents
 1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [Mô tả chung về trò chơi, các ý tưởng chính](#mô-tả-chung-về-trò-chơi-,-các-ý-tưởng-chính)
+3. [Mô tả các chức năng đã cài đặt](#mô-tả-các-chức-năng-đã-cài-đặt)
+4. [Các kỹ thuật lập trình được sử dụng trong chương trình](#các-kỹ-thuật-lập-trình-được-sử-dụng-trong-chương-trình)
+5. [Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình](#kết-luận,-hướng-phát-triển-và-các-điều-tâm-đắc-rút-ra-được-sau-khi-hoàn-thiện-chương-trình)
 
 ### Hướng dẫn cài đặt
 
@@ -16,11 +17,11 @@
 * Chạy file project sdl2048.cbp 
 * F9 (build and run) để chạy và chơi game
 
-### Mô tả 
+### Mô tả chung về trò chơi, các ý tưởng chính
 
 Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIGHT] để di chuyển các ô số và gom lại để đạt được 2048
 
-### Các chức năng
+### Mô tả các chức năng đã cài đặt
 
 * Màn hình chính của game với board 4x4 
 * Âm thanh sinh động, có thể dừng âm bằng nút 9 và resume bằng nút 0
@@ -31,7 +32,7 @@ Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIG
 
 > Video: https://www.youtube.com/watch?v=0KYItvqyT_s
 
-### Kỹ thuật đã sử dụng
+### Các kỹ thuật lập trình được sử dụng trong chương trình
 
 * Xử lí sự kiện chuột, bàn phím
 * Sử dụng các extension của thư viện để tạo màn hình game
@@ -43,7 +44,7 @@ Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIG
 * Cách cấp phát động và quản lí bộ nhớ
 * Tách file và quản lý file trong project
 
-### Kết luận
+### Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình
 
 > 2048 là tựa game kinh điển đã xuất hiện cách đây khá lâu, và giờ em đã được thử sức làm lại nó với C++ và SDL_2. Mặc dù chưa được hoàn chỉnh các chức năng nhưng em nhận thấy được rằng ngôn ngữ trong lập trình không quá quan trọng, quan trọng là cần hiểu vấn đề cặn kẽ và sử dụng các công cụ một cách hợp lý.
  
