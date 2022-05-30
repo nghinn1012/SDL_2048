@@ -20,12 +20,12 @@
 * Kiểm tra bằng cách gọi g++ và mingw32-make trong terminal
 #### Clone repository về máy
 * Mở một trình Terminal và nhập lần lượt các lệnh  
-`$ git clone https://github.com/nghinn1012/SDL_2048  
-$ cd SDL_2048`
+`$ git clone https://github.com/nghinn1012/SDL_2048`  
+`$ cd SDL_2048`  
 ### Chạy chương trình 
 * Chạy các lệnh sau  
-`$ mingw32-make  
-$ ./SDL_2048.exe`
+`$ mingw32-make`   
+`$ ./SDL_2048.exe`
 
 ### Mô tả chung về trò chơi, các ý tưởng chính
 
