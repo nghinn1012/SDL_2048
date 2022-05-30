@@ -27,9 +27,26 @@
 `$ mingw32-make`   
 `$ ./SDL_2048.exe`
 
-### Mô tả chung về trò chơi, các ý tưởng chính
+### Mô tả chung về trò chơi, các ý tưởng chính  
 
-Lấy ý tưởng từ game 2048, sử dụng 4 phím [UP], [DOWN], [LEFT], [RIGHT] để di chuyển các ô số và gom lại để đạt được 2048
+* Game được lấy cảm hứng từ 2048 cổ điển, viết bằng ngôn ngữ C++ và sử dụng thư viện SDL2
+
+#####LUẬT CHƠI:
+* Người chơi sẽ được cấp cho một bảng kích cỡ 4x4 với 2 ô số mở đầu (mặc định là 2 số 2) những ô có cùng giá trị sẽ sát nhập vào nhau và tạo ra một ô có giá trị gấp đôi. Nhiệm vụ của người chơi là sát nhập các ô một cách khéo léo để tạo ra ô chiến thắng 2048. Bằng cách
+
+** Nhấn UP để dồn các ô lên phía trên
+
+** Nhấn DOWN để dồn các ô xuống phía dưới
+
+** Nhấn LEFT để dồn các ô sang bên trái
+
+** Nhấn RIGHT để dồn các ô sang bên phải
+
+** Nhấn 9 để tạm dừng nhạc
+
+** Nhấn 0 để tiếp tục nhạc
+
+* Mỗi khi 2 ô cùng giá trị và được sát nhập điểm của người chơi sẽ được công thêm bằng đúng giá trị của ô mới được tạo ra từ việc sát nhập
 
 ### Mô tả các chức năng đã cài đặt
 
