@@ -22,7 +22,7 @@
 * Mở một trình Terminal và nhập lần lượt các lệnh  
 `$ git clone https://github.com/nghinn1012/SDL_2048`  
 `$ cd SDL_2048`  
-### Chạy chương trình 
+#### Chạy chương trình 
 * Chạy các lệnh sau  
 `$ mingw32-make`   
 `$ ./SDL_2048.exe`
@@ -31,7 +31,7 @@
 
 * Game được lấy cảm hứng từ 2048 cổ điển, viết bằng ngôn ngữ C++ và sử dụng thư viện SDL2
 
-##### Luật chơi của game
+#### Luật chơi của game
 * Người chơi sẽ được cấp cho một bảng kích cỡ 4x4 với 2 ô số mở đầu, những ô có cùng giá trị sẽ sát nhập vào nhau và tạo ra một ô có giá trị gấp đôi. Nhiệm vụ của người chơi là sát nhập các ô một cách khéo léo để tạo ra ô chiến thắng 2048. Bằng cách
 
 + Nhấn UP để dồn các ô lên phía trên
@@ -56,12 +56,12 @@
 * Các ô điểm mang giá trị 2,4,8,16,32,64,128,256,512,1024,2048 với các màu khác nhau 
 #### Âm thanh 
 * Âm thanh sinh động, có thể dừng âm bằng nút 9 và resume bằng nút 0
-### Ghi lại điểm
+#### Ghi lại điểm
 * Hiện điểm hiện tại, cập nhật sau mỗi lần thao tác
 * Lưu điểm cao nhất
-### Nút Newgame
+#### Nút Newgame
 * Có thể chuyển qua New Game trong khi đang chơi hoặc tự động chuyển khi thua
-### Thông báo thắng/thua 
+#### Thông báo thắng/thua 
 * Thắng sẽ in ra "You Win" 
 * Thua sẽ in ra "You Lose" và tự động chuyển về NewGame sau đó
 
