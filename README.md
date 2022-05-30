@@ -5,7 +5,7 @@
 *********************************************
 # Mục lục
 1. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
-2. [Mô tả chung về trò chơi, các ý tưởng chính](#mô-tả-chung-về-trò-chơi)
+2. [Mô tả chung về trò chơi, các ý tưởng chính](https://github.com/nghinn1012/SDL_2048/blob/main/README.md#m%C3%B4-t%E1%BA%A3-chung-v%E1%BB%81-tr%C3%B2-ch%C6%A1i-c%C3%A1c-%C3%BD-t%C6%B0%E1%BB%9Fng-ch%C3%ADnh)
 3. [Mô tả các chức năng đã cài đặt](#mô-tả-các-chức-năng-đã-cài-đặt)
 4. [Các kỹ thuật lập trình được sử dụng trong chương trình](#các-kỹ-thuật-lập-trình-được-sử-dụng-trong-chương-trình)
 5. [Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình](https://github.com/nghinn1012/SDL_2048/blob/main/README.md#k%E1%BA%BFt-lu%E1%BA%ADn-h%C6%B0%E1%BB%9Bng-ph%C3%A1t-tri%E1%BB%83n-v%C3%A0-c%C3%A1c-%C4%91i%E1%BB%81u-t%C3%A2m-%C4%91%E1%BA%AFc-r%C3%BAt-ra-%C4%91%C6%B0%E1%BB%A3c-sau-khi-ho%C3%A0n-thi%E1%BB%87n-ch%C6%B0%C6%A1ng-tr%C3%ACnh)
