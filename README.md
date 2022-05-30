@@ -25,7 +25,7 @@
 #### Chạy chương trình 
 * Chạy các lệnh sau  
 `$ mingw32-make`   
-`$ ./SDL_2048.exe`
+`$ ./sdl2048.exe`
 
 ### Mô tả chung về trò chơi, các ý tưởng chính  
 
